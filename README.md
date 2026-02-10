@@ -69,7 +69,7 @@ const shamshad = {
 
 ## 📈 3D Contribution Graph
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-customize.svg)
 
 ---
 
