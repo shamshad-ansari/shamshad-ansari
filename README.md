@@ -1,12 +1,8 @@
-<div align="center">
-
 # 👋 Hi, I'm Shamshad Ansari
 
 ### CS Student @ Fisk University | Full Stack Developer | Open Source Contributor
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications;Contributing+to+open+source;Exploring+AI%2FML+architectures;Always+learning+something+new" alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications;Contributing+to+open+source;Exploring+AI%2FML+architectures;Always+learning+something+new" alt="Typing SVG" />
 
 ---
 
@@ -24,19 +20,13 @@ const shamshad = {
 
 ## 🔗 Connect With Me
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sh-ansari)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:as.shamshadansari@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shamshad-ansari.vercel.app/)
 
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -64,46 +54,23 @@ const shamshad = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shamshad-ansari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shamshad-ansari&theme=tokyonight&hide_border=true" />
-</p>
+<!-- <a href="https://github.com/shamshad-ansari">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shamshad-ansari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamshad-ansari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a> -->
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamshad-ansari&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shamshad-ansari&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=shamshad-ansari&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamshad-ansari&custom_title=Shamshad's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" />
-</p>
-
----
-
-<div align="center">
-  
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shamshad-ansari&custom_title=Shamshad's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" />
 
 ---
 
 **⭐️ From [shamshad-ansari](https://github.com/shamshad-ansari)**
-
-</div>
