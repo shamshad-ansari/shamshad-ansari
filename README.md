@@ -3,8 +3,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications;Contributing+to+open+source;Exploring+AI%2FML+architectures;Always+learning+something+new" alt="Typing SVG" />
 
+<br/>
 
-## 🚀 About Me
+## About Me
 ```typescript
 const shamshad = {
     currentFocus: ["Meteor.js (Open Source)", "FitPro iOS"],
@@ -15,13 +16,17 @@ const shamshad = {
 };
 ```
 
-## 🔗 Connect With Me
+<br/>
+
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sh-ansari)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:as.shamshadansari@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shamshad-ansari.vercel.app/)
 
-## 🛠️ Tech Stack
+<br/>
+
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -42,13 +47,15 @@ const shamshad = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shamshad-ansari&theme=tokyonight&hide_border=true)
 
+<br/>
 
-## 📈 3D Contribution Graph
+## Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shamshad-ansari&theme=tokyo-night&hide_border=true&area=true&hide_title=true)
 
